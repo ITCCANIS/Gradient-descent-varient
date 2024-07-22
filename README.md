@@ -1,4 +1,6 @@
-Matrix Classifier
+                                                      Matrix Classifier
+
+
 This script was developed as part of an assignment for an optimization class in my math major. The goal was to create a tool to classify matrices based on their eigenvalues.
 
 
